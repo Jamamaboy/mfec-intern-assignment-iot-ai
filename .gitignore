@@ -16,6 +16,7 @@ dist/
 
 # Jupyter
 .ipynb_checkpoints/
+code.ipynb
 
 # Data
 Data/ai_predictions_2017_2018.csv
