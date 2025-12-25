@@ -16,3 +16,11 @@ dist/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Data
+Data/ai_predictions_2017_2018.csv
+Data/AEP_hourly.csv
+Data/AEP_hourly_until_2016.csv
+
+#Frontend
+Frontend/.vscode
