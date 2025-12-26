@@ -10,7 +10,7 @@ topic = "mfec/energy/sensor"
 
 # โหลดข้อมูล CSV
 try:
-	df = pd.read_csv("Data/monitor_actuals.csv")
+	df = pd.read_csv(("../Data/monitor_actuals.csv"))
 	print("Loaded CSV successfully!")
 	print(f"Columns found: {df.columns.tolist()}")
 except FileNotFoundError:
